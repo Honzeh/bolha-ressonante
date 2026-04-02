@@ -1,0 +1,2 @@
+# bolha-ressonante
+Ressonância protetiva
