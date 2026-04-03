@@ -1,0 +1,6 @@
+{
+"appId":"com.sonoperfeito.app",
+"appName":"Sono Perfeito",
+"webDir":"www",
+"bundledWebRuntime":false
+}
